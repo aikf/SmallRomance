@@ -201,7 +201,7 @@ var config = function () {
 		},
 
 		//阶段四
-		titleWords: '一不小心|就和你|到了白头',
+		titleWords: '正月十五|AK祝你|元宵节快乐',
 		titleOpt: {
 			gap: 4,
 			size: 70, //最后字的大小
